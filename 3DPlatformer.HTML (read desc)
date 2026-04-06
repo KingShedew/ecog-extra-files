@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dodeca-Jump 3D Platformer</title>
+    <title>Dodeca-Jump 3D Platformer </title>
     <!-- Load Tailwind CSS for modern styling -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Load Three.js (Rendering Engine) -->
